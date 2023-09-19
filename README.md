@@ -2,7 +2,7 @@
 - 🚀 Beginner in the world of technology, but driven by  passion for learning and growing.
 - 💻 Interested in cybersecurity, cloud computing, and data science, and eager to explore their limitless possibilities.
 - 🌱 Committed to continuous learning.
-- 📚 Currently studying and building, always seeking new challenges and opportunities.
+- 📚 Currently studying, seeking new challenges and opportunities.
 - 🌱 I’m a Bachelor of Computer Applicaions Student. 
 - 📫 How to reach me :
   <br>
